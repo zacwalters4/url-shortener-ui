@@ -23,14 +23,6 @@ We need to build a front-end for users to interact with.
 
 There are two ways to set up this repo! 
 
-1. 
-* Clone down this repo and change into the cloned down directory
-* Setup your own GitHub repo so you can push changes to your own profile
-* Change the remote to point to your GitHub repo
-* Run `npm install` to install dependencies
-* Run `npm start` to start your development server
-
-2. 
 * Fork, then clone down this repo and change into the cloned down directory
 * Run `npm install` to install dependencies
 * Run `npm start` to start your development server
