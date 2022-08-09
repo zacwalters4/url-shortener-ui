@@ -21,8 +21,6 @@ We need to build a front-end for users to interact with.
 
 ## Setup
 
-There are two ways to set up this repo! 
-
 * Fork, then clone down this repo and change into the cloned down directory
 * Run `npm install` to install dependencies
 * Run `npm start` to start your development server
